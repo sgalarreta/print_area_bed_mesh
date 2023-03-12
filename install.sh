@@ -1,5 +1,5 @@
 #!/bin/bash
-KLIPPER_PATH="${HOME}/klipper_config"
+KLIPPER_PATH="${HOME}/klipper/config"
 SYSTEMDDIR="/etc/systemd/system"
 
 # Step 1:  Verify Klipper has been installed
